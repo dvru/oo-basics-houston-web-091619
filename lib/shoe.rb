@@ -45,6 +45,6 @@ end
 
 
 
-Show.new("Adidas")
+# Shoe.new("Adidas")
 
  
