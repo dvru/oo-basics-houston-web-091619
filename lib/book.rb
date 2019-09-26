@@ -1,8 +1,10 @@
 class book
   
   def initialize(title)
-  end
+    end
   
+  def title
+    end 
   
 end 
 
